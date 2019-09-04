@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<br>
+<a href="student/showForm">student form</a>
 </body>
 </html>
